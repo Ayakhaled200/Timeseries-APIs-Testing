@@ -16,7 +16,7 @@ Each API represents an endpoint to test different models and datasets using Flas
 
 1. **Endpoint format**: nearly 10 different formats
 2. **Methods**: `GET` and `POST` supported, with `POST` for uploading datasets or configurations.
-3. **Response format**: JSON with calculated MSE, latency, and other metrics.
+3. **Response format**: JSON with calculated MSE, latency.
 
 ### Metrics Calculated
 
