@@ -1,7 +1,7 @@
-# Testing 10 APIs
+# Testing Timeseries Models
 ### Project Overview
 
-The main objective of this project is to test, evaluate, and compare 10 APIs created with Flask and Django. Each API handles different datasets and uses distinct models, providing detailed calculations of **MSE**, **latency** for a comprehensive comparison of each API's performance with varying data and model complexity.
+The main objective of this project is to test, evaluate, and compare 10 Timeseries APIs created with Flask and Django. Each API handles different datasets and uses distinct models, providing detailed calculations of **MSE**, **latency** for a comprehensive comparison of each API's performance with varying data and model complexity.
 
 ### Datasets
 
